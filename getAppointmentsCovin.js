@@ -1,7 +1,7 @@
 var pincode = 411027;
 var center_id = 694964
 var center_ids = [694964, 686241, 694994]
-var date = "07-05-2021";
+var date = "08-05-2021";
 
 
 const sleepNow = (delay) => new Promise((resolve) => setTimeout(resolve, delay));
